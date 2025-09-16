@@ -77,7 +77,8 @@
 
 ## 📌 Featured Projects
 Here are some of my academic and personal projects (more coming soon 🚀):
-- a
+- [3D Scene Reconstruction](https://github.com/shi921/3D-Scene-Reconstruction.git) Dense reconstruction from RGB-D images using OpenCV
+
 - 
 
 </br>
