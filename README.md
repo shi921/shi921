@@ -62,9 +62,6 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=shi921&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi921&layout=compact&theme=tokyonight" />
-</p>
 
 </br>
 </br>
